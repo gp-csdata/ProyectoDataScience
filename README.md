@@ -2,8 +2,7 @@ Tal lo redactado en la reflexión final del trabajo, repito:
 
 DATASET: Entiendo que haber encontrado una lista con tantas columnas útiles, de 18979 registros, y con realmente pocos valores faltantes, fue un buen ejercicio de manipulación, filtrado y completamiento de nulos. Esto permitió desde el inicio una toma de desiciones mas simple y con menos afectación al producto final.
 
-APRENDIZAJES: Lamentablemente se dejó en el cursado un tema muy amplio para el final, y los tiempos limitados, hicieron que deba buscar mas información y capacitación en otros ámbitos no llegando a explotar del todo el tema.
-En cuanto a la tarea de aprendizaje en el presente trabajo, que aún me concidero en un nivel inicial, me limite a predecir precio final de las propiedades ante otras variables numéricas y etiquetas, dejando afuera análisis y predicciones como:
+APRENDIZAJES: En la tarea de aprendizaje del trabajo, que aún me concidero en un nivel inicial, me permití predecir con todas los métodos posibles (al menos los mas comunes) y tratar de optimizar el mejor método modificando los hiperparámetros llegando a predecir el precio final de las propiedades ante otras variables numéricas y etiquetas. Es de notar, que intenté buscar profundidad en el aprendizaje, explorando varias formas, sobre una sola variable, pero dejando afuera análisis y predicciones tan válidos para un trabajo real como:
 
   * Predicción del precio por metro cuadrado (sirviendo para detectar oportunidades de inversión o sobreprecios),
   * Predicción de la demanda o velocidad de venta,
